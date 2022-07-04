@@ -4,6 +4,8 @@
 - 🔭 I am looking for a Full-stack developer Role.
 - 💙 I am curently working on React JS.
 - ✅ In my free time I solve problems on Leetcode,GeeksforGeeks and HackerRank.
+- 🌐 Visit my [E-commerce website](http://fluxfashion.in/)
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y6NftrG_B9Qf7SMhzzyVB6qDvwLCEpFg/view?usp=sharing).
 
 <p align ='center'>
 <a href="https://www.linkedin.com/in/mansisisangiya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
