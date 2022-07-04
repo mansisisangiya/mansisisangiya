@@ -31,8 +31,21 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-&theme=vision-friendly-dark
+
 ---
+<h2>Github Info</h2>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mansisisangiya&theme=vision-friendly-dark&show_icons=true&locale=en&hide_border=true" alt="mansisisangiya" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansisisangiya&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&langs_count=7&hide_border=true&hide=c" alt="mansisisangiya"/>
+</details>
+
+<details>
+ <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mansisisangiya&theme=vision-friendly-dark" alt="mansisisangiya" /></p>
+</details>
+
 
 
 
